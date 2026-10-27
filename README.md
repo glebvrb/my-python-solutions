@@ -90,4 +90,9 @@
 
 [View Solution Code](task018.py)
 
+## ## Task 19
+![Условие задачи 19](task019.png)
+
+[View Solution Code](task019.py)
+
 
