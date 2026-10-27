@@ -1,2 +1,6 @@
-# my-python-solutions
-Challenging problems, optimized solutions. My journey through Python algorithms
+# Мои решения задач на Python
+
+## Задача 1. Самая большая степень деления
+![Условие задачи 1](task1.png)
+
+[Посмотреть код решения](task1.py)
