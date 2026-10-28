@@ -95,4 +95,16 @@
 
 [View Solution Code](task019.py)
 
+## ## Task 20
+![Условие задачи 20](task020.png)
+
+[View Solution Code](task020.py)
+
+## ## Task 21
+![Условие задачи 21](task021.png)
+
+[View Solution Code](task021.py)
+
+
+
 
