@@ -105,6 +105,10 @@
 
 [View Solution Code](task021.py)
 
+## ## Task 22
+![Условие задачи 22](task022.png)
+
+[View Solution Code](task022.py)
 
 
 
