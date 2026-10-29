@@ -110,5 +110,10 @@
 
 [View Solution Code](task022.py)
 
+## ## Task 23
+![Условие задачи 23](task023.png)
+
+[View Solution Code](task023.py)
+
 
 
