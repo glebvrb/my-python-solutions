@@ -116,9 +116,14 @@
 [View Solution Code](task023.py)
 
 ## ## Task 24
-![Условие задачи 23](task024.png)
+![Условие задачи 24](task024.png)
 
 [View Solution Code](task024.py)
+
+## ## Task 25
+![Условие задачи 25](task025.png)
+
+[View Solution Code](task025.py)
 
 
 
