@@ -125,5 +125,10 @@
 
 [View Solution Code](task025.py)
 
+## ## Task 26
+![Условие задачи 26](task026.png)
+
+[View Solution Code](task026.py)
+
 
 
