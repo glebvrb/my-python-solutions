@@ -140,5 +140,9 @@
 
 [View Solution Code](task028.py)
 
+## ## Task 29
+![Условие задачи 29](task029.png)
+
+[View Solution Code](task029.py)
 
 
