@@ -162,4 +162,10 @@
 
 [View Solution Code](task032.py)
 
+## ## Task 33
+![Условие задачи 33](task033.png)
+
+[View Solution Code](task033.py)
+
+
 
