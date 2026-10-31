@@ -145,4 +145,10 @@
 
 [View Solution Code](task029.py)
 
+## ## Task 30
+![Условие задачи 30](task030.png)
+
+[View Solution Code](task030(solve1).py)
+[View Solution Code](task030(solve2).py)
+
 
