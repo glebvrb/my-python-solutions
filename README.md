@@ -148,7 +148,8 @@
 ## ## Task 30
 ![Условие задачи 30](task030.png)
 
-[View Solution Code](task030(solve1).py)
-[View Solution Code](task030(solve2).py)
+[View Solution Code1](task030(solve1).py)
+
+[View Solution Code2](task030(solve2).py)
 
 
