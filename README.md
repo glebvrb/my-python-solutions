@@ -157,5 +157,9 @@
 
 [View Solution Code](task031.py)
 
+## ## Task 32
+![Условие задачи 32](task032.png)
+
+[View Solution Code](task032.py)
 
 
