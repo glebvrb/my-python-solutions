@@ -177,5 +177,11 @@
 
 [View Solution Code](task035.py)
 
+## ## Task 36
+![Условие задачи 36](task036.png)
+
+[View Solution Code](task036.py)
+
+
 
 
