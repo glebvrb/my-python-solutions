@@ -15,6 +15,11 @@
 
 [View Solution Code](task002.py)
 
+## ## Task 2 /C++/
+![Условие задачи 2](task002cpp.png)
+
+[View Solution Code](task002.cpp)
+
 ## ## Task 3
 ![Условие задачи 3](task003.png)
 
