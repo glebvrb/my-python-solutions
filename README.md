@@ -86,6 +86,11 @@
 
 [View Solution Code](task009.py)
 
+## ## Task 9 /C++/
+![Условие задачи 9](task009cpp.png)
+
+[View Solution Code](task009.cpp)
+
 ## ## Task 10
 ![Условие задачи 10](task010.png)
 
