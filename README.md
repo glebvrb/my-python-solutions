@@ -1,4 +1,4 @@
-# Python Problem Solutions
+# OLYMPIAD-CODING
 
 ## ## Task 1 
 ![Условие задачи 1](task001.png)
